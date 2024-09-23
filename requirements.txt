@@ -1,0 +1,23 @@
+Cách 1: Sử dụng Homebrew
+Cài đặt Homebrew (nếu chưa có): Mở Terminal và chạy lệnh sau để cài đặt Homebrew:
+
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+Cài đặt Python 3: Sau khi Homebrew được cài đặt, bạn có thể cài đặt Python 3 bằng lệnh:
+
+
+brew install python
+Kiểm tra cài đặt: Kiểm tra phiên bản Python 3 và pip (trình quản lý gói):
+
+
+python3 --version
+pip3 --version
+
+
+pip3 install <package_name>
+
+
+
+
+
+
